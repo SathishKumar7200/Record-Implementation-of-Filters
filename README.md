@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** HARINE S
-- **Register No:** 212224230081
+- **Name:** Sathish kumar M
+- **Register No:** 212224230256
 
 ---
 
